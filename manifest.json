@@ -1,0 +1,13 @@
+{
+  "name": "My Extension",
+  "manifest_version": 2,
+  "version": "2.1",
+  "description": "Gets information from Google.",
+  "content_scripts": [
+    {
+      "matches": ["http://french.about.com/*"],
+      "css": ["mystyles.css"],
+      "js": ["jquery.js", "myscript.js"]
+    }
+  ]
+}

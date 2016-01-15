@@ -1,0 +1,14 @@
+a.inline-audio-play-button-ted {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border: 1px solid #555;
+	background-color: #ee3;
+	margin-left: 5px;
+	cursor: pointer;
+	position: relative;
+	/*top: 5px;*/
+	padding-left: 5px;
+	padding-bottom: 5px;
+	text-decoration: none !important;
+}
